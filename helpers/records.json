@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "color": "brown",
+    "disposition": "closed"
+  },
+  {
+    "id": 2,
+    "color": "green",
+    "disposition": "open"
+  },
+  {
+    "id": 3,
+    "color": "blue",
+    "disposition": "closed"
+  },
+  {
+    "id": 4,
+    "color": "red",
+    "disposition": "open"
+  },
+  {
+    "id": 5,
+    "color": "yellow",
+    "disposition": "open"
+  },
+  {
+    "id": 6,
+    "color": "blue",
+    "disposition": "open"
+  },
+  {
+    "id": 7,
+    "color": "green",
+    "disposition": "open"
+  },
+  {
+    "id": 8,
+    "color": "blue",
+    "disposition": "open"
+  },
+  {
+    "id": 9,
+    "color": "green",
+    "disposition": "closed"
+  },
+  {
+    "id": 10,
+    "color": "yellow",
+    "disposition": "open"
+  },
+  {
+    "id": 11,
+    "color": "red",
+    "disposition": "open"
+  },
+  {
+    "id": 12,
+    "color": "yellow",
+    "disposition": "closed"
+  },
+  {
+    "id": 13,
+    "color": "green",
+    "disposition": "open"
+  },
+  {
+    "id": 14,
+    "color": "blue",
+    "disposition": "open"
+  },
+  {
+    "id": 15,
+    "color": "red",
+    "disposition": "closed"
+  }
+]

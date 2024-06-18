@@ -1,0 +1,25 @@
+{
+    "name": "records",
+    "version": "1.0.0",
+    "description": "records API",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "",
+    "dependencies": {
+      "async": "^3.2.1",
+      "axios": "^0.22.0",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "got": "^11.8.2",
+      "jsonwebtoken": "^8.5.1",
+      "moment": "^2.29.1",
+      "node-cache": "^5.1.2",
+      "q": "^1.5.1",
+      "saml2-js": "^3.0.1",
+      "uuid": "^8.3.2"
+    }
+  }
+  
